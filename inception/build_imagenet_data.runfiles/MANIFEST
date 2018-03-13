@@ -1,0 +1,4 @@
+inception/inception/__init__.py 
+inception/inception/build_imagenet_data /private/var/tmp/_bazel_trevordevalle/aea6cae9eddd7054bbe84313dbdfff71/execroot/inception/bazel-out/darwin_x86_64-fastbuild/bin/inception/build_imagenet_data
+inception/inception/data/__init__.py 
+inception/inception/data/build_imagenet_data.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/data/build_imagenet_data.py

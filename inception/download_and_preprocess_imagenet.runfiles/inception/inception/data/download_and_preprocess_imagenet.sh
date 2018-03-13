@@ -1,0 +1,1 @@
+/Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/data/download_and_preprocess_imagenet.sh

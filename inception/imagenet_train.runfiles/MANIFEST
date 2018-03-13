@@ -1,0 +1,15 @@
+inception/inception/__init__.py 
+inception/inception/dataset.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/dataset.py
+inception/inception/image_processing.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/image_processing.py
+inception/inception/imagenet_data.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/imagenet_data.py
+inception/inception/imagenet_train /private/var/tmp/_bazel_trevordevalle/aea6cae9eddd7054bbe84313dbdfff71/execroot/inception/bazel-out/darwin_x86_64-fastbuild/bin/inception/imagenet_train
+inception/inception/imagenet_train.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/imagenet_train.py
+inception/inception/inception_model.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/inception_model.py
+inception/inception/inception_train.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/inception_train.py
+inception/inception/slim/__init__.py 
+inception/inception/slim/inception_model.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/slim/inception_model.py
+inception/inception/slim/losses.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/slim/losses.py
+inception/inception/slim/ops.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/slim/ops.py
+inception/inception/slim/scopes.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/slim/scopes.py
+inception/inception/slim/slim.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/slim/slim.py
+inception/inception/slim/variables.py /Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/slim/variables.py

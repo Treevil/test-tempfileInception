@@ -1,0 +1,1 @@
+/Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/data/imagenet_2012_validation_synset_labels.txt

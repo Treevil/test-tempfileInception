@@ -1,0 +1,1 @@
+/Users/trevordevalle/Project/Devalle-Inception-Thesis/inception/data/imagenet_lsvrc_2015_synsets.txt
